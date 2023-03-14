@@ -1,0 +1,21 @@
+C:\Users\Jamie\source\repos\App Preferences\App Preferences\bin\Debug\net7.0-windows\App Preferences.exe
+C:\Users\Jamie\source\repos\App Preferences\App Preferences\bin\Debug\net7.0-windows\App Preferences.deps.json
+C:\Users\Jamie\source\repos\App Preferences\App Preferences\bin\Debug\net7.0-windows\App Preferences.runtimeconfig.json
+C:\Users\Jamie\source\repos\App Preferences\App Preferences\bin\Debug\net7.0-windows\App Preferences.dll
+C:\Users\Jamie\source\repos\App Preferences\App Preferences\bin\Debug\net7.0-windows\App Preferences.pdb
+C:\Users\Jamie\source\repos\App Preferences\App Preferences\obj\Debug\net7.0-windows\App Preferences.csproj.AssemblyReference.cache
+C:\Users\Jamie\source\repos\App Preferences\App Preferences\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Jamie\source\repos\App Preferences\App Preferences\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Jamie\source\repos\App Preferences\App Preferences\obj\Debug\net7.0-windows\App Preferences_MarkupCompile.cache
+C:\Users\Jamie\source\repos\App Preferences\App Preferences\obj\Debug\net7.0-windows\App Preferences_MarkupCompile.lref
+C:\Users\Jamie\source\repos\App Preferences\App Preferences\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Jamie\source\repos\App Preferences\App Preferences\obj\Debug\net7.0-windows\App Preferences.g.resources
+C:\Users\Jamie\source\repos\App Preferences\App Preferences\obj\Debug\net7.0-windows\App Preferences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jamie\source\repos\App Preferences\App Preferences\obj\Debug\net7.0-windows\App Preferences.AssemblyInfoInputs.cache
+C:\Users\Jamie\source\repos\App Preferences\App Preferences\obj\Debug\net7.0-windows\App Preferences.AssemblyInfo.cs
+C:\Users\Jamie\source\repos\App Preferences\App Preferences\obj\Debug\net7.0-windows\App Preferences.csproj.CoreCompileInputs.cache
+C:\Users\Jamie\source\repos\App Preferences\App Preferences\obj\Debug\net7.0-windows\App Preferences.dll
+C:\Users\Jamie\source\repos\App Preferences\App Preferences\obj\Debug\net7.0-windows\refint\App Preferences.dll
+C:\Users\Jamie\source\repos\App Preferences\App Preferences\obj\Debug\net7.0-windows\App Preferences.pdb
+C:\Users\Jamie\source\repos\App Preferences\App Preferences\obj\Debug\net7.0-windows\App Preferences.genruntimeconfig.cache
+C:\Users\Jamie\source\repos\App Preferences\App Preferences\obj\Debug\net7.0-windows\ref\App Preferences.dll
